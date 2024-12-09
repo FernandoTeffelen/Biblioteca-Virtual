@@ -1,0 +1,66 @@
+# PARA ARRUMAR:
+#
+# V1.1
+# 1 - não pode repetir o livro na biblioteca do usuario     //FEITO
+# 2 - erro de mostrar livros mesmo dando os.('cls') na busca de livros do usuario       //NÃO TEM O QUE FAZER, EM QUALQUER PARTE DO CÓDIGO, QUE TEM O os.system('cls'), QUALQUER PARTE DO CÓDIGO, SE ROLAR PRA CIMA, MOSTRA PARTES DO CÓDIGO MOSTRADO NA TELA ANTERIORMENTE, infelizmente, sem concerto
+# 3 - tudo envolvendo busca de livros do usuario        //FEITO
+# 4 - tudo envolvendo a biblioteca do usuario       //FEITO
+# 5 - tentar fazer um "banco de dados" para ter salvo os livros.extend, generos.extend e generos_map        //FEITO
+# 6 - reler todo o código       //FEITO
+# 7 - não pode pegar o livro do genero que nao foi escolhido        //FEITO
+# 
+# V1.2
+# 1 - reler todo o código ADMIN        //FEITO
+# 2 - colocar def voltando(): em TUDO que faltou do resto do código        //FEITO
+# 3 - enfeitar com "prints" informando que é a conta do usuario        //FEITO
+# 4 - alterar a entrada, primeiramente pergunta se tem login, se tiver(caso de admin) ja entra na conta, se não tiver, cadastra a conta, e depois entra        //FEITO
+# 5 - testar erros        //FEITO
+#
+# V1.3
+# 1 - menu adaptativo        //FEITO
+# 2 - mais de um usuarios        //FEITO
+# 3 - multiplas bibliotecas        //FEITO
+# 4 - melhorias gerais        //FEITO
+# 5 - "bonito"        //FEITO
+# 
+# V1.4 - admin
+# 1 - vizualizar cada usuario        //FEITO
+# 2 - vizualizar cada livro na biblioteca de cada usuario        //FEITO
+# 
+# V1.5
+# 1 - na area de admin, opção de excluir um livro da livraria        //FEITO
+# 2 - na area de usuario, excluir um livro da sua biblioteca pessoal        //FEITO
+# 
+# V1.6
+# 1 - arrumar a vizualização de livros da bilbioteca de cada usuario na area de admin        //FEITO
+# 2 - deu erro na hora de alterar o nome e senha
+# 3 - mudar a escrita do menu na conta do usuario, mais explicativo que é para alterar o usuario e senha
+# 
+# V1.7 - muitos erros(Correções)
+# 1 - correções gerais        //FEITO
+# 2 - correção na hora de deletar usuario pelo admin        //FEITO
+# 3 - correções de deletar livro da livraria        //FEITO
+# 4 - correções de deletar livro da bilbioteca pessoal        //FEITO
+# 
+# V1.8
+# 1 - biblioteca com bugs, no momento de alterar alguma coisa pelo admin, usuario nao consegue pegar livros.        //ERRO!
+# 2 - cadastro de usuario in usuarios        //FEITO
+#
+# V1.9 release (1 da V1.8)
+# 1 - (o erro é, quando é feito mais de um usuario, os dois tem livros na sua biblioteca, e quando no admin, exclui algum dos usuario, e tenta ser feito um novo cadastro, com o mesmo usuario e senha que foi excluido, ele nao deixa buscar livros a partir da quantia de livros que o usuario excluido tinha, e se escolher o 2 por exemplo, mostra o nome do ultimo livro pego pelo usuario excluido, mas pega o livro na posição 2 corretamente)
+# 1 - (na verdade, se excluir algum usuario, esta dando erro que qualquer outro nao pode adicionar livros a sua biblioteca)
+# 1 - bem na real, ja ta muito mais que bom assim, to cansado, 3h da manha        //FEITO
+#
+# v2.0
+# 1 - salvar as informações em um bloco de notas, e conseguir cadastrar mesmo depois de fechar o console
+# 2 - html, css, js
+# 3 - banco de dados com html
+# 4 - 
+# 5 - 
+#
+#########################################################################################################################################################
+# 
+# 1 - revisão geral        //FEITO
+# 2 - aperfeiçoamento geral        //FEITO
+# 3 - apresentação pessoal para matheus e alicia        //FEITO
+# 
