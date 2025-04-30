@@ -1,7 +1,7 @@
 import os
 import time
 from defs import *
-from db import *
+from database import *
 
 
 while True: # parar nunca encerrar o código
